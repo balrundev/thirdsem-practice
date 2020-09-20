@@ -7,10 +7,8 @@
 #### Подготовка к работе
 
 - Регистрация на сервисе [trello.com](trello.com)
-
 - Установка клиента GitHub Desktop
 - Установка клиента git
-
 - Регистрация на сайте [jetbrains.com](jetbrains.com), установка PyCharm Community Edition или PyCharm Professional (после получения invite-ссылки)
 - Установка Python
 
